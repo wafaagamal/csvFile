@@ -1,0 +1,7002 @@
+[
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Carretera",
+    "Discount Band": "None",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Carretera",
+    "Discount Band": "None",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "France",
+    "Product": "Carretera",
+    "Discount Band": "None",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Germany",
+    "Product": "Carretera",
+    "Discount Band": "None",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Mexico",
+    "Product": "Carretera",
+    "Discount Band": "None",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Carretera",
+    "Discount Band": "None",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Germany",
+    "Product": "Montana",
+    "Discount Band": "None",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Canada",
+    "Product": "Montana",
+    "Discount Band": "None",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Montana",
+    "Discount Band": "None",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Germany",
+    "Product": "Montana",
+    "Discount Band": "None",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Mexico",
+    "Product": "Montana",
+    "Discount Band": "None",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Canada",
+    "Product": "Montana",
+    "Discount Band": "None",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Mexico",
+    "Product": "Montana",
+    "Discount Band": "None",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Montana",
+    "Discount Band": "None",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Canada",
+    "Product": "Montana",
+    "Discount Band": "None",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "United States of America",
+    "Product": "Montana",
+    "Discount Band": "None",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "None",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "None",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "None",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "None",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "None",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "None",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "None",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "None",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "None",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "None",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "None",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "None",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "None",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "None",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "None",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Velo",
+    "Discount Band": "None",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "France",
+    "Product": "Velo",
+    "Discount Band": "None",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Germany",
+    "Product": "Velo",
+    "Discount Band": "None",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Velo",
+    "Discount Band": "None",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Germany",
+    "Product": "Velo",
+    "Discount Band": "None",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "United States of America",
+    "Product": "Velo",
+    "Discount Band": "None",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Canada",
+    "Product": "Velo",
+    "Discount Band": "None",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Canada",
+    "Product": "VTT",
+    "Discount Band": "None",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Germany",
+    "Product": "VTT",
+    "Discount Band": "None",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "France",
+    "Product": "VTT",
+    "Discount Band": "None",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Germany",
+    "Product": "VTT",
+    "Discount Band": "None",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "VTT",
+    "Discount Band": "None",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "France",
+    "Product": "VTT",
+    "Discount Band": "None",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "VTT",
+    "Discount Band": "None",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Amarilla",
+    "Discount Band": "None",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "United States of America",
+    "Product": "Amarilla",
+    "Discount Band": "None",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Germany",
+    "Product": "Amarilla",
+    "Discount Band": "None",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Amarilla",
+    "Discount Band": "None",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Amarilla",
+    "Discount Band": "None",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "United States of America",
+    "Product": "Amarilla",
+    "Discount Band": "None",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Amarilla",
+    "Discount Band": "None",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "United States of America",
+    "Product": "Amarilla",
+    "Discount Band": "None",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Velo",
+    "Discount Band": "Low",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "United States of America",
+    "Product": "Carretera",
+    "Discount Band": "Low",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Carretera",
+    "Discount Band": "Low",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Carretera",
+    "Discount Band": "Low",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Canada",
+    "Product": "Carretera",
+    "Discount Band": "Low",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "United States of America",
+    "Product": "Carretera",
+    "Discount Band": "Low",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "France",
+    "Product": "Carretera",
+    "Discount Band": "Low",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Germany",
+    "Product": "Carretera",
+    "Discount Band": "Low",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Mexico",
+    "Product": "Carretera",
+    "Discount Band": "Low",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Carretera",
+    "Discount Band": "Low",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Carretera",
+    "Discount Band": "Low",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Mexico",
+    "Product": "Montana",
+    "Discount Band": "Low",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "United States of America",
+    "Product": "Montana",
+    "Discount Band": "Low",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Montana",
+    "Discount Band": "Low",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Montana",
+    "Discount Band": "Low",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "United States of America",
+    "Product": "Montana",
+    "Discount Band": "Low",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "United States of America",
+    "Product": "Montana",
+    "Discount Band": "Low",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Velo",
+    "Discount Band": "Low",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Velo",
+    "Discount Band": "Low",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Canada",
+    "Product": "Velo",
+    "Discount Band": "Low",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "United States of America",
+    "Product": "Velo",
+    "Discount Band": "Low",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Velo",
+    "Discount Band": "Low",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "United States of America",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "France",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Germany",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Mexico",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "France",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "United States of America",
+    "Product": "Amarilla",
+    "Discount Band": "Low",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "France",
+    "Product": "Amarilla",
+    "Discount Band": "Low",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Canada",
+    "Product": "Carretera",
+    "Discount Band": "Low",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Canada",
+    "Product": "Carretera",
+    "Discount Band": "Low",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Germany",
+    "Product": "Carretera",
+    "Discount Band": "Low",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Carretera",
+    "Discount Band": "Low",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Carretera",
+    "Discount Band": "Low",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "United States of America",
+    "Product": "Montana",
+    "Discount Band": "Low",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Montana",
+    "Discount Band": "Low",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Mexico",
+    "Product": "Montana",
+    "Discount Band": "Low",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Mexico",
+    "Product": "Montana",
+    "Discount Band": "Low",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Velo",
+    "Discount Band": "Low",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Velo",
+    "Discount Band": "Low",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Velo",
+    "Discount Band": "Low",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Germany",
+    "Product": "Velo",
+    "Discount Band": "Low",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Mexico",
+    "Product": "Velo",
+    "Discount Band": "Low",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "France",
+    "Product": "Velo",
+    "Discount Band": "Low",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Velo",
+    "Discount Band": "Low",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Mexico",
+    "Product": "Velo",
+    "Discount Band": "Low",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Mexico",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Germany",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Canada",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Germany",
+    "Product": "Amarilla",
+    "Discount Band": "Low",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Mexico",
+    "Product": "Amarilla",
+    "Discount Band": "Low",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Germany",
+    "Product": "Amarilla",
+    "Discount Band": "Low",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Amarilla",
+    "Discount Band": "Low",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Amarilla",
+    "Discount Band": "Low",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Amarilla",
+    "Discount Band": "Low",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Canada",
+    "Product": "Amarilla",
+    "Discount Band": "Low",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "France",
+    "Product": "Carretera",
+    "Discount Band": "Low",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Carretera",
+    "Discount Band": "Low",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Germany",
+    "Product": "Carretera",
+    "Discount Band": "Low",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "United States of America",
+    "Product": "Carretera",
+    "Discount Band": "Low",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Canada",
+    "Product": "Carretera",
+    "Discount Band": "Low",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Montana",
+    "Discount Band": "Low",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "France",
+    "Product": "Montana",
+    "Discount Band": "Low",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Montana",
+    "Discount Band": "Low",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Montana",
+    "Discount Band": "Low",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "France",
+    "Product": "Montana",
+    "Discount Band": "Low",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Germany",
+    "Product": "Montana",
+    "Discount Band": "Low",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Canada",
+    "Product": "Velo",
+    "Discount Band": "Low",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "United States of America",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Mexico",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Germany",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Canada",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Germany",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Carretera",
+    "Discount Band": "Low",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Velo",
+    "Discount Band": "Low",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Germany",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Mexico",
+    "Product": "Montana",
+    "Discount Band": "Low",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Velo",
+    "Discount Band": "Low",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Carretera",
+    "Discount Band": "Low",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Germany",
+    "Product": "Carretera",
+    "Discount Band": "Low",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Carretera",
+    "Discount Band": "Low",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Canada",
+    "Product": "Montana",
+    "Discount Band": "Low",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Germany",
+    "Product": "Montana",
+    "Discount Band": "Low",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Montana",
+    "Discount Band": "Low",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Germany",
+    "Product": "Montana",
+    "Discount Band": "Low",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Mexico",
+    "Product": "Montana",
+    "Discount Band": "Low",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "Low",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "United States of America",
+    "Product": "Velo",
+    "Discount Band": "Low",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Velo",
+    "Discount Band": "Low",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Velo",
+    "Discount Band": "Low",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "France",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Mexico",
+    "Product": "VTT",
+    "Discount Band": "Low",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Amarilla",
+    "Discount Band": "Low",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Mexico",
+    "Product": "Amarilla",
+    "Discount Band": "Low",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Amarilla",
+    "Discount Band": "Low",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "United States of America",
+    "Product": "Amarilla",
+    "Discount Band": "Low",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Amarilla",
+    "Discount Band": "Low",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Canada",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Mexico",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "France",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Germany",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "United States of America",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Mexico",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "United States of America",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Germany",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Mexico",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "United States of America",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Mexico",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Germany",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "United States of America",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "France",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Germany",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Germany",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Canada",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Mexico",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Canada",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "United States of America",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Germany",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "United States of America",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Canada",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "United States of America",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Germany",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "France",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Canada",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "France",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Canada",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "France",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "United States of America",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Mexico",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Canada",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Mexico",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "France",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Canada",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "France",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Germany",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "France",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "France",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "France",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Germany",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "France",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Germany",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "United States of America",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Canada",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "France",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Mexico",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Canada",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Germany",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "United States of America",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Mexico",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "France",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "France",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "France",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Canada",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Germany",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Canada",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "France",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Mexico",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Canada",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "United States of America",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Mexico",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Germany",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Mexico",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Mexico",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Canada",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Mexico",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Canada",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "France",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Canada",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "France",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "United States of America",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Germany",
+    "Product": "Montana",
+    "Discount Band": "Medium",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Mexico",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Canada",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Canada",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Mexico",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "United States of America",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Germany",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Germany",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "United States of America",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "France",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "France",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Mexico",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Germany",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Germany",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Carretera",
+    "Discount Band": "Medium",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "Medium",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "France",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Mexico",
+    "Product": "Velo",
+    "Discount Band": "Medium",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "VTT",
+    "Discount Band": "Medium",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Canada",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "France",
+    "Product": "Amarilla",
+    "Discount Band": "Medium",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "United States of America",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "United States of America",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "France",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "United States of America",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "France",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Germany",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Germany",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "United States of America",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "United States of America",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "United States of America",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Canada",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "France",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Mexico",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Mexico",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Mexico",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "United States of America",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "France",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Canada",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "United States of America",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "United States of America",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Canada",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Germany",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "France",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "France",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "France",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Canada",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Germany",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Mexico",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "United States of America",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Germany",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Canada",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Germany",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "France",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Canada",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Mexico",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Mexico",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "France",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Mexico",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Germany",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "France",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Mexico",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Mexico",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Canada",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Mexico",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Canada",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "United States of America",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "France",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "France",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Canada",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "France",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "United States of America",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "United States of America",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Mexico",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Canada",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "United States of America",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "United States of America",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Mexico",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "France",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Mexico",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Germany",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Mexico",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Mexico",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Germany",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Canada",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Canada",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Canada",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "6/1/2014",
+    "Month Number": "6",
+    "Month Name": "June",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Mexico",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Germany",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "France",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "United States of America",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Mexico",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "France",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Canada",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "United States of America",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Germany",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Canada",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Mexico",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "1/1/2014",
+    "Month Number": "1",
+    "Month Name": "January",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Canada",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "9/1/2013",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Mexico",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "United States of America",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Canada",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Germany",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "United States of America",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Canada",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Canada",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "United States of America",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Canada",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "United States of America",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "France",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Canada",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "United States of America",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Mexico",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "France",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Germany",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Germany",
+    "Product": "Carretera",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Mexico",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "8/1/2014",
+    "Month Number": "8",
+    "Month Name": "August",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Germany",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "United States of America",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "Mexico",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "France",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "France",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "9/1/2014",
+    "Month Number": "9",
+    "Month Name": "September",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "United States of America",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "United States of America",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "12/1/2013",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "United States of America",
+    "Product": "Velo",
+    "Discount Band": "High",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Germany",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "7/1/2014",
+    "Month Number": "7",
+    "Month Name": "July",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "United States of America",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "10/1/2013",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Midmarket",
+    "Country": "Germany",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Canada",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "11/1/2013",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2013"
+  },
+  {
+    "Segment": "Enterprise",
+    "Country": "Germany",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "11/1/2014",
+    "Month Number": "11",
+    "Month Name": "November",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "France",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "12/1/2014",
+    "Month Number": "12",
+    "Month Name": "December",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "France",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "3/1/2014",
+    "Month Number": "3",
+    "Month Name": "March",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Small Business",
+    "Country": "Mexico",
+    "Product": "Amarilla",
+    "Discount Band": "High",
+    "Date": "10/1/2014",
+    "Month Number": "10",
+    "Month Name": "October",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Mexico",
+    "Product": "Montana",
+    "Discount Band": "High",
+    "Date": "2/1/2014",
+    "Month Number": "2",
+    "Month Name": "February",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Government",
+    "Country": "Canada",
+    "Product": "Paseo",
+    "Discount Band": "High",
+    "Date": "4/1/2014",
+    "Month Number": "4",
+    "Month Name": "April",
+    "Year": "2014"
+  },
+  {
+    "Segment": "Channel Partners",
+    "Country": "United States of America",
+    "Product": "VTT",
+    "Discount Band": "High",
+    "Date": "5/1/2014",
+    "Month Number": "5",
+    "Month Name": "May",
+    "Year": "2014"
+  }
+]
